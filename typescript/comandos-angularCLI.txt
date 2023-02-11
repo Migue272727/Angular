@@ -1,0 +1,8 @@
+ng new //Se utiliza para poder crear un proyecto en angular
+ng build //Se utilza para compilar el proyecto
+ng config, ng help, y ng update //Configuracion de nuestro proyecto
+ng generate //Crear algun componente y/o servicio
+ng add //Lo utilizaremos para por ejemplo añadir un nuevo plugin
+ng serve //Para poder ejecutar nuestro programa en nuestro server local (node) debemos dirigirnos a la ruta localhost... para poder verlo
+ng serve --port 'puerto' //Cambiamos el puerto por defecto
+ng serve --open o --o //Observaremos directamente nuestro programa en el navegador
